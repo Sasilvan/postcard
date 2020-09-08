@@ -1,0 +1,33 @@
+body{
+    background: #000000;
+    font-family: 'Indie Flower', cursive;
+}
+.postcard{
+    background: white; 
+    width: 400px; 
+    height: 300px; 
+    margin: 30%; 
+    padding-top: 10px;
+    padding: 15px;   
+}
+.postcard-header{
+    overflow: hidden;
+}
+.postcard-header img{
+    float: right; max-width:80px;   
+}
+.left-part{
+    float: left; width: 60%;
+}
+.rigth-parte{
+    float:right;
+    
+}
+input{
+    margin-top: 10px;
+}
+.postcard-footer{
+position: relative;
+bottom: -15%;
+left: -25%;
+}
